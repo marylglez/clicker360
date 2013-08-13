@@ -1,0 +1,13 @@
+.easyPieChart {
+    position: relative;
+    text-align: center;
+}
+
+.easyPieChart canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.skills{text-align: center; margin-top: 80px;}
+.chart{display: inline-block; margin-right: 8%;}
+.percentage{display: inline-block; clear: both;}
